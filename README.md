@@ -1,2 +1,3 @@
-# 2020_07_SEE_ManejoDatos_Reporteria_conR
-Manejo Datos y Reporteria con R
+# Manejo de Datos y Reporteria con R
+
+Diapositivas y datos para el curso Manejo Datos y Reporteria con R
